@@ -1,0 +1,6 @@
+E:\preeti practice c#\github\WpfApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\preeti practice c#\github\WpfApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\preeti practice c#\github\WpfApp\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\preeti practice c#\github\WpfApp\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\preeti practice c#\github\WpfApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\preeti practice c#\github\WpfApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
