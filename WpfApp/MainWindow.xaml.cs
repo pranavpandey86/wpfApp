@@ -23,6 +23,7 @@ namespace WpfApp
         public MainWindow()
         {//test
             InitializeComponent();
+            //test 2
         }
     }
 }
